@@ -1,0 +1,3 @@
+#run this on cmd or powershell with particular directory
+
+.\setup.exe /configure .\configuration-Office2019Enterprise.xml 
